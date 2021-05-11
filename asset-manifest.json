@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-basics-window-size-tracker/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-basics-window-size-tracker/static/js/main.6c545256.chunk.js",
+    "main.js.map": "/react-basics-window-size-tracker/static/js/main.6c545256.chunk.js.map",
+    "runtime-main.js": "/react-basics-window-size-tracker/static/js/runtime-main.51c0b104.js",
+    "runtime-main.js.map": "/react-basics-window-size-tracker/static/js/runtime-main.51c0b104.js.map",
+    "static/js/2.6f67be96.chunk.js": "/react-basics-window-size-tracker/static/js/2.6f67be96.chunk.js",
+    "static/js/2.6f67be96.chunk.js.map": "/react-basics-window-size-tracker/static/js/2.6f67be96.chunk.js.map",
+    "index.html": "/react-basics-window-size-tracker/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-basics-window-size-tracker/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6f67be96.chunk.js.LICENSE.txt": "/react-basics-window-size-tracker/static/js/2.6f67be96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c0b104.js",
+    "static/js/2.6f67be96.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6c545256.chunk.js"
+  ]
+}
